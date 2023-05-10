@@ -28,9 +28,9 @@ Once we have trained our machine learning model, we need to evaluate its perform
 
 ## Dependencies
 
-Python 3
-Jupyter Notebook
-Pandas
-Numpy
-NLTK
-scikit-learn
+- Python 3
+- Jupyter Notebook
+- Pandas
+- Numpy
+- NLTK
+- scikit-learn
