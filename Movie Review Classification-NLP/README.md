@@ -13,9 +13,9 @@ using the Count Vectorizer to convert text data into numerical features.
 ### Machine Learning Algorithms
 The following machine learning algorithms are used to train and evaluate the movie review sentiment classification model:
 
-Random Forest
-K-Nearest Neighbors (KNN)
-Multinomial Naive Bayes (NB)
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Multinomial Naive Bayes (NB)
 
 ### Evaluation Metrics
 The accuracy, precision, recall, and F1-score metrics are used to evaluate the performance of the classification model.
